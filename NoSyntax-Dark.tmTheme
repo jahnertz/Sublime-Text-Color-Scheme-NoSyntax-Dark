@@ -20,9 +20,9 @@
           <key>lineHighlight</key>
           <string>#171717</string>
           <key>selection</key>
-          <string>#303030</string>
+          <string>#3030af</string>
           <key>selectionBorder</key>
-          <string>#ababad</string>
+          <string>#000000</string>
           <key>findHighlight</key>
           <string>#666666</string>
           <key>findHighlightForeground</key>
